@@ -1,0 +1,97 @@
+body {
+  background-color: red;
+  color: white;
+}
+
+section {
+  margin: 0 auto;
+
+  padding: 90px;
+}
+#MainContainer {
+  margin: 0 !important;
+  max-width: 100% !important;
+  padding: 0px !important;
+}
+#topbar1 {
+  background-color: rgba(67, 133, 255, 0.925) !important;
+  color: white;
+  padding: 9px;
+  margin-bottom: 30px;
+  font-size: 16;
+  width: 100%;
+}
+#topbar1 > p {
+  margin: 0 auto;
+}
+.heading {
+  font-size: 4em;
+  font-weight: 900;
+  color: rgb(255, 230, 0);
+  margin-bottom: 27px;
+}
+section {
+  margin-bottom: 30px;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
+#bar2 {
+  margin: 0;
+  padding: 9px;
+  width: 100%;
+  font-size: 16;
+  background-color: rgba(67, 133, 255, 0.925) !important;
+  color: white;
+  margin-bottom: 30px;
+}
+#bar2 > p {
+  margin: 4px auto;
+}
+#bar3 {
+  background-color: rgba(67, 133, 255, 0.925) !important;
+  font-size: 16;
+  color: white;
+  padding: 9px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#bar3 > p {
+  margin: 4px auto;
+}
+
+#bar4 {
+  background-color: rgb(174, 51, 51) !important;
+  font-size: 20px;
+  color: white;
+
+  margin-top: 30px;
+}
+#bar4 > p {
+  margin: 4px auto;
+}
+.carousel-inner {
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+
+#navCon {
+  padding: 3px;
+  background-color: rgba(72, 56, 59, 0.443);
+}
+
+#mapImg {
+  width: 70%;
+}
+
+
+/* Page 2 CSS */
+
+.container{
+       margin: 0 auto;
+}
+
